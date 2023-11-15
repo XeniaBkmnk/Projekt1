@@ -1,0 +1,7 @@
+Obecna stacja: Stacja 1
+Obecna stacja: Stacja 2
+Obecna stacja: Stacja docelowa
+Pociąg czeka 30 sekund na stacji docelowej
+Obecna stacja: Stacja 2
+Obecna stacja: Stacja 1
+Całkowity czas podróży: 40 sekund
