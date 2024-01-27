@@ -10,6 +10,4 @@ public
         this.pojemnosc=pojemnosc;
     }
 
-
-
 }
