@@ -17,7 +17,6 @@ public
     private String StasjaPocziontkowa;
     private String StacjaKoncowa;
 
-
     public static int getNrobiektu() {
         return nrobiektu;
     }
@@ -119,10 +118,6 @@ public
         return listaWagon;
     }
 
-
-
-
-
     public void save(){ //lista_Wagonow
         try {
             File file = new File("AppState.txt");
@@ -141,10 +136,6 @@ public
             e.printStackTrace();
         }
     }
-
-
-
-
 
     public void setListaWagon(ArrayList<Wagon> listaWagon) {
         this.listaWagon = listaWagon;
@@ -169,9 +160,7 @@ public
         this.listaWagon=new ArrayList<>();
     }
 
-
 //( Math.random()) ->  {
-
 
     @Override
     public void run() {
@@ -185,9 +174,7 @@ public
                 throw new RuntimeException(e); //logok bled
             }
 
-
         }
-
 
     }
 //szybkosc aktualizacji
@@ -217,6 +204,5 @@ public
                 ", StacjaKoncowa='" + StacjaKoncowa + '\'' +
                 '}';
     }
+        
 }
-
-
