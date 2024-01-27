@@ -68,15 +68,8 @@ public class Mapa {
     }
 
   //  Collections.sort(wyniki, new Comparator<Trasa>(){
-
     }
-
-
     /*
-
-
-
-
     public void szukajPolaczenia(String poczatek, String koniec) {
 
         this.poczontek = poczatek;
@@ -90,8 +83,6 @@ public class Mapa {
                 return o1.getDlugoscTrasy() - o2.getDlugoscTrasy();
             }//koniec compare
         });//koniec sortowania
-
-
 
     }
 
