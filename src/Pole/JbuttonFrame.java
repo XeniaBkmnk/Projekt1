@@ -64,7 +64,6 @@ jButton.addActionListener(new ActionListener() {
    setLocationRelativeTo(null);
      setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
    setVisible(true);
- }
-
-
+   }
+                
 }
